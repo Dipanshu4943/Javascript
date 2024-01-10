@@ -54,9 +54,19 @@ console.log(typeof (score));
 let valueInNumber=Number(score);
 console.log(typeof valueInNumber);*/
 
-let score = "Deep Rajput"
+/*let score = "Deep Rajput"
 console.log(typeof score);
 console.log(typeof (score));
 
 let valueInNumber=Number(score);
-console.log(typeof valueInNumber);
+console.log(typeof valueInNumber);*/
+
+
+//"33" => 33
+// "33abc"=> NAN (Not a number)
+//true=> 1; false=>0
+
+let isloggedIn = 1
+let booleanIsloggedIn=Boolean(IsloggedIn)
+console.log(booleanIsloggedIn)
+
