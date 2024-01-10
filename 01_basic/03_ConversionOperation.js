@@ -66,7 +66,12 @@ console.log(typeof valueInNumber);*/
 // "33abc"=> NAN (Not a number)
 //true=> 1; false=>0
 
-let isloggedIn = 1
+/*let isloggedIn = 1
 let booleanIsloggedIn=Boolean(IsloggedIn)
-console.log(booleanIsloggedIn)
+console.log(booleanIsloggedIn)*/
 
+
+let someNumber= 33
+let stringNumber=string(someNumber)
+console.log(stringNumber);
+console.log(typeof stringNumber)
